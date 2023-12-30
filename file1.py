@@ -1,5 +1,5 @@
-import os
+import sys
 
 
-def show_os():
-    print("File 1", os.__file__)
+def show_sys():
+    print("File 1", sys.__file__)
